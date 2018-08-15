@@ -1,0 +1,24 @@
+page-home {
+    a{
+        background: pink;
+        width: 500px;
+        height: 500px;
+    }
+    .teb{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 80vh;
+    }
+    img{
+        height: 100px;
+        width: 100px;
+        border-radius: 50px;
+    }
+    td{
+        text-align: center;
+    }
+    .top{
+        font-size: 40px;
+    }
+}
